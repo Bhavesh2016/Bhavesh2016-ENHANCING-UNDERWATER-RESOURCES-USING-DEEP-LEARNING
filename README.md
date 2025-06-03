@@ -1,5 +1,7 @@
 # ENHANCING-UNDERWATER-RESOURCES-USING-DEEP-LEARNING
-Enhancing Underwater Resources Using Deep Learning A Final Year Major Project 
+Enhancing Underwater Resources Using Deep Learning 
+
+A Final Year Major Project 
 
 B.Tech CSE – Data Science | JNTUH (2022–2025)
 
